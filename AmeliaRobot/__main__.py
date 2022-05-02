@@ -96,7 +96,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-`ʜɪ.. ɪ'ᴍ` 𝗦ʜɪɴᴏʙᴜ [🙋‍♀️](https://telegra.ph/file/689ef6e3ad72e3bd0b9f3.jpg)
+`ʜɪ.. ɪ'ᴍ` 𝗦ʜɪɴᴏʙᴜ [🙋‍♀️](https://telegra.ph/file/e9a340c5e98eabb175791.mp4)
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
 
 amelia_IMG = "https://telegra.ph/file/689ef6e3ad72e3bd0b9f3.jpg"
